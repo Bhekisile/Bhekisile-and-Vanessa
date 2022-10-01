@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+    color: black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 50px 100px 50px 100px;
+  }
+  #img-div{
+    text-align: center;
+    display: block;
+    filter: grayscale(100%);
+    width: 100%;
+  }
+
+  #image {
+    max-width: 330px;
+    height: auto;
+  }
+  
