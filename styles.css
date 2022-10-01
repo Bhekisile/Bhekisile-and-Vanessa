@@ -13,7 +13,7 @@ body {
   }
 
   #image {
-    max-width: 330px;
+    max-width: 100%;
     height: auto;
   }
   
